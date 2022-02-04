@@ -22,7 +22,7 @@ It was perfect challenge for me because I have just started learning HTML and CS
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://github.com/Himanshupegu/QR-code-component)
 - Live Site URL: [Live site](https://himanshupegu.github.io/QR-code-component/)
 
 ## My process
