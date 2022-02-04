@@ -14,7 +14,7 @@
 
 ## Overview
 
-It was perfect challenge for me because I have just started learning HTML and CSS and I wanted to do some hands on with HTML and CSS. So, the card layout doesn't shift, so it's ideal and I haven't learned anything about responsive layouts yet.
+It was perfect challenge for me because I have just started learning HTML and CSS and I wanted to do some hands on. So, the card layout doesn't shift, so it's ideal and I haven't learned anything about responsive layouts yet.
 ### Screenshot
 
 ![](./design/desktop-preview.jpg)
