@@ -22,8 +22,8 @@ It was perfect challenge for me because I have just started learning HTML and CS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]()
+- Live Site URL: [Live site](https://himanshupegu.github.io/QR-code-component/)
 
 ## My process
 
