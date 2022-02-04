@@ -36,7 +36,7 @@ It was perfect challenge for me because I have just started learning HTML and CS
 
 
 ### What I learned
-It's my first project. So, I have learned lot of thing.
+It's my first project. So, I have learned lot of things.
 ## Author
 
 - Frontend Mentor - [@Himanshupegu](https://www.frontendmentor.io/profile/Himanshupegu)
